@@ -1,4 +1,4 @@
-# compile-polymorphism
+# compile-time polymorphism
 package main;
 
 
